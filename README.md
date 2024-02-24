@@ -1,2 +1,2 @@
 # Objective
-* Use the Google Drive API to perform directory operations
+* Use the Google Drive API to perform directory operations.
